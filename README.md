@@ -5,13 +5,14 @@ A stacked set of interactive headings built using React, Tailwind, React Icons.
 ## Custom Reusable Button Component with Tailwind CSS
 This is a custom reusable button component designed with Tailwind CSS.
 
-- Flexible Props: Customize the button's appearance with props like primary, secondary, rounded, and icon.
+- Flexible Props: Customize the button's appearance with props like primary, secondary, rounded, soft, icon and rounded.
 - React Icons Integration: Easily include icons from React Icons library to enhance button visuals.
 
 ### Props
 children: React elements to be displayed inside the button.
 primary: Apply primary color scheme to the button.
 secondary: Apply secondary color scheme to the button.
+soft : soft version of primary
 rounded: Apply rounded corners to the button.
 icon: React Icons tag to be displayed as an icon inside the button.
 ...rest: Additional props for custom styling and functionality.
