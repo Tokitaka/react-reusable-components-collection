@@ -18,10 +18,11 @@ icon: React Icons tag to be displayed as an icon inside the button.
 ...rest: Additional props for custom styling and functionality.
 
 ### Usage
-Copy code
+```jsx
 import Button from './Button';
 
 <Button primary rounded icon={<YourIconComponent />} onClick={handleClick}>Click me</Button>
+```
 
 <img src="https://github.com/Tokitaka/react-reusable-components-collection/assets/110197274/14e62bc2-2c53-4622-8877-6fded2c26e3c">
 
