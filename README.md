@@ -10,5 +10,9 @@ A custom reusable button component designed with Tailwind. It can take the follo
   rounded,
   icon : React Icons tag
   ...rest : additional styling 
-https://github.com/Tokitaka/react-reusable-components-collection/assets/110197274/9417cc1d-e431-42f6-ad44-f576c2ebd1df
+<img src="https://github.com/Tokitaka/react-reusable-components-collection/assets/110197274/7a72e18d-1778-4068-9c01-95e744a41ce6
+">
+
+
+
 
