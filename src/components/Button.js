@@ -31,4 +31,18 @@ function Button({
     )
 }
 
+Button.propTypes = {
+    checkVariationValue: ({ primary, secondary }) => {
+      const count =
+        Number(!!primary) +
+        Number(!!secondary)
+  
+      if (count > 1) {
+        return new Error(
+          'Only one of primary, secondary can be true'
+        );
+      }
+    },
+  };
+
 export default Button;
