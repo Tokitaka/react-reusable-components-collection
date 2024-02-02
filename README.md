@@ -6,13 +6,13 @@ A stacked set of interactive headings built using React, Tailwind, React Icons.
 This is a custom reusable button component designed with Tailwind CSS.
 
 ### Props
-children: React elements to be displayed inside the button.
-primary: Apply primary color scheme to the button.
-secondary: Apply secondary color scheme to the button.
-soft : soft version of primary
-rounded: Apply rounded corners to the button.
-icon: React Icons tag to be displayed as an icon inside the button.
-...rest: Additional props for custom styling and functionality.
+- children: React elements to be displayed inside the button.
+- primary: Apply primary color scheme to the button.
+- secondary: Apply secondary color scheme to the button.
+- soft : soft version of primary
+- rounded: Apply rounded corners to the button.
+- icon: React Icons tag to be displayed as an icon inside the button.
+- ...rest: Additional props for custom styling and functionality.
 
 ### Usage
 ```jsx
