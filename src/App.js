@@ -1,8 +1,10 @@
 import Button from "./components/Button";
 import AccordionPage from "./pages/AccordionPage";
 import CouterPage from "./pages/CouterPage";
-import { GoCheckCircle } from "react-icons/go";
 import DropdownPage from "./pages/DropdownPage";
+import ModalPage from "./pages/ModalPage";
+
+import { GoCheckCircle } from "react-icons/go";
 
 function App () {
     const initialCount = 10;
@@ -27,7 +29,8 @@ function App () {
             <div className="mt-2">
                 <Button primary rounded>Click me</Button> : primary + rounded
             </div> */}
-            <DropdownPage />
+            {/* <DropdownPage /> */}
+            <ModalPage />
         </div>
     )
 }
