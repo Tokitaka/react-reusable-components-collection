@@ -32,3 +32,17 @@ Dropdown Component allows users to select a single value from a list of options.
 - value: Current selected value of the dropdown.
 - onChange: Callback function triggered when the selected value changes.
 <img src="https://github.com/Tokitaka/react-reusable-components-collection/assets/110197274/56310069-aba3-4d18-9bec-6593fc390109">
+
+## Modal Component with Tailwind CSS
+This is a custom modal component for React apps. It pops up a window with whatever info or buttons you want inside.
+
+### Props
+
+- content: Stuff you want to show inside the modal, like a title and some text.
+- actionBar: Buttons or other things you want at the bottom of the modal.
+
+### Why createPortal?
+
+Used createPortal from ReactDOM to make sure the modal shows up on top of everything else in the app, even if it's not directly inside the main part of the webpage. 
+
+![image](https://github.com/Tokitaka/react-reusable-components-collection/assets/110197274/a7318cc4-5861-4ac2-912b-847cc21d002a)
