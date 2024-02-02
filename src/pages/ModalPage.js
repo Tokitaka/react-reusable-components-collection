@@ -7,7 +7,7 @@ function ModalPage() {
 
     const content = {
         title: 'Become an e-⁠resident', 
-        body: 'Apply for e-⁠Residency, pick up your e-⁠Residency kit and use it to start, run and grow a company 100% online.',
+        body: 'Apply for e-⁠Residency, pick up your e-⁠Residency kit and use it to start, run and grow a company 100% online. E-Residency of Estonia is a government-issued digital identity.',
     }
 
     const handleClick = () => {
