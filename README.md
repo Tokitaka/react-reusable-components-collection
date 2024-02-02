@@ -2,7 +2,7 @@
 A stacked set of interactive headings built using React, Tailwind, React Icons.
 ![image](https://github.com/Tokitaka/react-reusable-components-collection/assets/110197274/0d98866c-d289-4a5d-b55b-8b08e472853f)
 
-## Custom Reusable Button Component with Tailwind CSS
+## Button Component with Tailwind CSS
 This is a custom reusable button component designed with Tailwind CSS.
 
 - Flexible Props: Customize the button's appearance with props like primary, secondary, rounded, soft, icon and rounded.
@@ -26,6 +26,6 @@ import Button from './Button';
 
 <img src="https://github.com/Tokitaka/react-reusable-components-collection/assets/110197274/14e62bc2-2c53-4622-8877-6fded2c26e3c">
 
-## Custom Reusable Dropdown Component with Tailwind CSS
+## Dropdown Component with Tailwind CSS
 Dropdown Component allows users to select a single value from a list of options. It supports props such as label, icon, value, and onChange for customization. The dropdown dynamically renders options based on the selected value. It utilizes a ref object to control the dropdown DOM element and registers a document-level event listener to handle clicks outside the dropdown. This ensures that the dropdown closes when clicked outside.
 <img src="https://github.com/Tokitaka/react-reusable-components-collection/assets/110197274/56310069-aba3-4d18-9bec-6593fc390109">
