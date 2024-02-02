@@ -27,8 +27,8 @@ import Button from './Button';
 Dropdown Component allows users to select a single value from a list of options. 
 
 ### Props
-label: Label text displayed for the dropdown.
-icon: Icon component to be displayed alongside the label.
-value: Current selected value of the dropdown.
-onChange: Callback function triggered when the selected value changes.
+- label: Label text displayed for the dropdown.
+- icon: Icon component to be displayed alongside the label.
+- value: Current selected value of the dropdown.
+- onChange: Callback function triggered when the selected value changes.
 <img src="https://github.com/Tokitaka/react-reusable-components-collection/assets/110197274/56310069-aba3-4d18-9bec-6593fc390109">
